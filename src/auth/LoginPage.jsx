@@ -23,11 +23,11 @@ const LoginPage = () => {
                             />
                         </div>
                         <div className="d-grid gap-2">
-                            <input 
-                                type="submit"
-                                className="btnSubmit"
-                                value="Login" 
-                            />
+                        <button 
+                            className='btn btn-primary' 
+                            onClick={ onLogin }>
+                            Login
+                            </button>
                         </div>
                     </form>
                 </div>
