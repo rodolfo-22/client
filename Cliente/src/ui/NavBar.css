@@ -1,0 +1,62 @@
+	#neubar {
+	  background: #072273;
+	  box-shadow: 4px 10px 20px rgba(0, 0, 0, 0.4)
+	}
+
+	.nav-item .active {
+	  border-radius: 20px;
+	  background: linear-gradient(145deg, #be0b1a, #a91a26);
+	  box-shadow: 10px 10px 25px #ddc1a0,
+	    -4px -4px 8px #f7e5cc;
+	}
+
+	#neubar .dropdown-menu a:hover {
+	  color: #454545
+	}
+
+	#neubar .nav-item {
+	  margin: auto 4px;
+	}
+
+	#neubar a {
+
+	  padding-left: 15px;
+	  padding-right: 15px;
+	}
+
+	#neubar .dropdown-menu {
+	  background: #545454
+	}
+
+	a.navbar-brand {
+	  color: #454545
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* //https://htmljstemplates.com/html/bootstrap-5-navbars */
